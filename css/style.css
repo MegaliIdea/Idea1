@@ -1,0 +1,49 @@
+
+    body {
+      background-color: #b4a5a5;
+      margin: 0;
+    }
+    .regla {
+      background-color: blue;
+      border-style: dotted;
+    }
+
+    h1 {
+    color: #301b3f
+    }
+    h3{
+    color: #3c415c
+    }
+
+    .button1 {
+    	background-color:transparent;
+    	border-radius:42px;
+    	border:1px solid #e3c322;
+    	display:inline-block;
+    	cursor:pointer;
+    	color:#000000;
+    	font-family:Times New Roman;
+    	font-size:17px;
+    	padding:16px 16px;
+    	text-decoration:none;
+    	text-shadow:0 0 0 #000000;
+      position: absolute;
+      bottom: 100px;
+      left: 500px;
+
+
+    }
+    .button1:hover {
+    	background-color:white;
+    }
+
+.footer{
+  background-color: red;
+  width: auto;
+  height: 325px;
+  position: absolute;
+  margin: 0;
+}
+.center{
+  left: 600px;
+}
